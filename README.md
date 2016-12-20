@@ -4,8 +4,8 @@
   
   - Can machine classify the news as the human do by reading the content of news?
   - Suppose on-job-situation that other team asked me to extract the keywords in each news category.
-    1. Limitations : We only have news title and contents(no clue for news class)
-    2. How about using machine-learning for these tasks? Once we make classificaiton model, then We can SAVE TIME!  
+    - Limitations : We only have news title and contents(no clue for news class)
+    - How about using machine-learning for these tasks? Once we make classificaiton model, then We can SAVE TIME!  
 
 ### Project's Goal
 
@@ -17,8 +17,9 @@
 #### Data Collection
 
   - Crawl the news from(http://news.naver.com/), use them as Traing Data. And Predict Daum News class(http://media.daum.net/)
-  - Source Code of Crawler : see https://github.com/musalys/navernewscrawl
-  - Use only news contents as X-feature, output(y-target) is class of news.
+  - Source Code of Crawler :
+    - navernews : newscrawler.py at https://github.com/musalys/navernewscrawl
+    - daumnews  : newscrawler_mongodb.py at https://github.com/musalys/daumnewscrawl
   
   - 6 topics:
   
