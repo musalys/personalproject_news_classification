@@ -17,6 +17,7 @@
 #### Data Collection
 
   - Crawl the news from(http://news.naver.com/), use them as Traing Data. And Predict Daum News class(http://media.daum.net/)
+  - Source Code of Crawler : see https://github.com/musalys/navernewscrawl
   - Use only news contents as X-feature, output(y-target) is class of news.
   
   - 6 topics:
