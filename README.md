@@ -68,3 +68,11 @@
     - Analyze with similarities(cosine similarity) among other news
     - Using topic modeling in Python genism
        - LDA(Latent Dirichlet Allocation) model use
+
+# Prerequisite
+
+- python 2.7
+- mysql(navernews db)
+- mongodb(daumnews db)
+- jupyter notebook
+- konlpy
