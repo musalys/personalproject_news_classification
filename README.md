@@ -52,7 +52,7 @@
 - Analysis
     - Crawled between end of November and middle of December(relatively recent), some keywords concentrated 
     - Politics : 최순실, 대통령, 탄핵, 새누리당, 박근혜  ⇒ Mainly related by impeachment of korean president
-     - economy : 삼성, 회장, 기업, 금리, 금융 ⇒ Corresponds to Mrs.Choi's Case, presidents and ceo of big company
+     - economy : 삼성, 회장, 기업, 금리, 금융 ⇒ Corresponds to Mrs.Choi's Case, Ceo of big company(Top 10)
      - society : 대통령, 퇴진, 집회, 교과서, 촛불집회 ⇒ Keywords that closely related to Candle Rally
      - global  : 트럼프, 미국, 중국, 러시아, 대만 ⇒ Mainly about Donald Trump's actions and comments
      - culture : 서울, 기온 ⇒ Frequently weather news
